@@ -1,1 +1,3 @@
-import tkinter
+import imp
+from tkinter import *
+
